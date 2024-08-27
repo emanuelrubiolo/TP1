@@ -1,0 +1,171 @@
+body {
+    background-color: #372772;
+}
+
+.b1 {
+    background-color: #E7ECEF;
+
+}
+
+.p1 {
+    color: #040F16;
+}
+
+.barraInferior {
+    position: fixed;
+    bottom: 0%;
+    display: flex;
+    background-color: #040F16;
+    width: 100%;
+    justify-content: center;
+}
+
+.barraInferior .nav-link {
+    padding: 20px;
+    color: #FBFBFF;
+    size: 20px;
+   
+}
+
+.nav1 {
+    background-color: #372772;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+
+    height: 90px;
+}
+
+.nav1 .nav-link {
+    color: #FBFBFF;
+}
+
+.nav1 .nav-link.active {
+    color: #FBFBFF;
+    font-weight: 700;
+}
+
+.nav1 .navbar-brand {
+    color: #FBFBFF;
+}
+
+
+.just {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.herramientas {
+    padding-top: 3%;
+
+}
+
+.a {
+    display: flex;
+    background-color: #FBFBFF;
+    width: 100%;
+    justify-content: center;
+}
+
+.a .b {
+    padding: 10px;
+}
+
+.h2Izq {
+    text-align: start;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.contacto {
+    max-width: 30%;
+    justify-content: start;
+}
+
+.w70 {
+    max-width: 70%;
+    justify-content: start;
+}
+
+.justificado {
+    text-align: justify;
+}
+
+h1 {
+    padding: 20px;
+    text-align: center;
+
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: #FBFBFF;
+}
+
+h2 {
+    padding: 20px;
+    text-align: center;
+
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    color: #FBFBFF;
+}
+
+h3 {
+    padding: 20px;
+    text-align: center;
+
+    
+    font-style: normal;
+    color: #FBFBFF;
+
+    font-family: "Alef", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h4 {
+    padding: 20px;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: #FBFBFF;
+}
+
+p {
+    color: #FBFBFF;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+}
+
+.card-body {
+    padding: 1.5rem;
+}
+
+.card {
+    background-color: #372772;
+    border-radius: 20px;
+    border: 2px solid #fff;
+    
+}
+
+ul {
+    color: #FBFBFF;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+}
+
+.form-label{
+    color: #FBFBFF;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+}
