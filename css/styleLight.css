@@ -1,5 +1,5 @@
 body {
-    background-color: #372772;
+    background-color: #f0f0f0;
 }
 
 
@@ -7,20 +7,20 @@ body {
     position: fixed;
     bottom: 0%;
     display: flex;
-    background-color: #372772;
+    background-color: #ffffff;
     width: 100%;
     justify-content: center;
 }
 
 .barraInferior .nav-link {
     padding: 20px;
-    color: #FBFBFF;
+    color: #000000;
     size: 20px;
 
 }
 
 .nav1 {
-    background-color: #372772;
+    background-color: #ffffff;
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;
@@ -30,16 +30,16 @@ body {
 }
 
 .nav1 .nav-link {
-    color: #FBFBFF;
+    color: #1D1E18;
 }
 
 .nav1 .nav-link.active {
-    color: #FBFBFF;
+    color: #1D1E18;
     font-weight: 700;
 }
 
 .nav1 .navbar-brand {
-    color: #FBFBFF;
+    color: #1D1E18;
 }
 
 
@@ -68,7 +68,7 @@ h1 {
     font-optical-sizing: auto;
     font-weight: 800;
     font-style: normal;
-    color: #FBFBFF;
+    color: #1D1E18;
 }
 
 h2 {
@@ -79,7 +79,7 @@ h2 {
     font-optical-sizing: auto;
     font-weight: 600;
     font-style: normal;
-    color: #FBFBFF;
+    color: #1D1E18;
 }
 
 h3 {
@@ -88,7 +88,7 @@ h3 {
 
 
     font-style: normal;
-    color: #FBFBFF;
+    color: #1D1E18;
 
     font-family: "Alef", sans-serif;
     font-weight: 400;
@@ -102,7 +102,7 @@ h4 {
     font-optical-sizing: auto;
     font-weight: 600;
     font-style: normal;
-    color: #FBFBFF;
+    color: #1D1E18;
 }
 
 
@@ -112,14 +112,15 @@ h4 {
 }
 
 .card {
-    background-color: #37277200;
+    background-color: rgba(255, 255, 255, 0.082);
     border-radius: 20px;
-    border: 2px solid #fff;
+    border: 2px solid white;
+
 
 }
 
 p {
-    color: #FBFBFF;
+    color: #000000;
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
     font-weight: 300;
@@ -127,14 +128,14 @@ p {
 }
 
 ul {
-    color: #FBFBFF;
+    color: #1D1E18;
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
     font-weight: 300;
 }
 
 .form-label {
-    color: #FBFBFF;
+    color: #1D1E18;
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
     font-weight: 500;
@@ -148,11 +149,11 @@ ul {
 }
 
 .grad {
-    background: linear-gradient(to bottom right, #372772, #000000);
+    background: linear-gradient(to bottom right, #f3f3f3, #eef7ff);
 }
 
 .gris {
-    color: #cecece
+    color: #000000
 }
 
 .display-4 {
@@ -161,13 +162,13 @@ ul {
 }
 
 .logo {
-
     width: 20px;
     height: 20px;
+    filter: invert(), saturate(0%);
 }
 
 .boton {
-    background-color: #372772;
+    background-color: #0b2545;
     color: #FBFBFF;
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;

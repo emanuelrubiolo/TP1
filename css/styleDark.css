@@ -1,0 +1,179 @@
+body {
+    background-color: #372772;
+}
+
+
+.barraInferior {
+    position: fixed;
+    bottom: 0%;
+    display: flex;
+    background-color: #372772;
+    width: 100%;
+    justify-content: center;
+}
+
+.barraInferior .nav-link {
+    padding: 20px;
+    color: #FBFBFF;
+    size: 20px;
+
+}
+
+.nav1 {
+    background-color: #372772;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+
+    height: 90px;
+}
+
+.nav1 .nav-link {
+    color: #FBFBFF;
+}
+
+.nav1 .nav-link.active {
+    color: #FBFBFF;
+    font-weight: 700;
+}
+
+.nav1 .navbar-brand {
+    color: #FBFBFF;
+}
+
+
+.herramientas {
+    padding-top: 3%;
+
+}
+
+
+.contacto {
+    width: 50%;
+    min-width: 350px;
+    justify-content: start;
+}
+
+
+.justificado {
+    text-align: justify;
+}
+
+h1 {
+
+    text-align: center;
+
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    color: #FBFBFF;
+}
+
+h2 {
+    padding: 20px;
+    text-align: center;
+
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: #FBFBFF;
+}
+
+h3 {
+
+    text-align: center;
+
+
+    font-style: normal;
+    color: #FBFBFF;
+
+    font-family: "Alef", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h4 {
+    padding: 20px;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: #FBFBFF;
+}
+
+
+
+.card-body {
+    padding: 1.5rem;
+}
+
+.card {
+    background-color: #37277200;
+    border-radius: 20px;
+    border: 2px solid #fff;
+
+}
+
+p {
+    color: #FBFBFF;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+
+ul {
+    color: #FBFBFF;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+}
+
+.form-label {
+    color: #FBFBFF;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+}
+
+
+.fotoPerfil {
+    width: 200px;
+    border: 5px solid #6c757d;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.grad {
+    background: linear-gradient(to bottom right, #372772, #000000);
+}
+
+.gris {
+    color: #cecece
+}
+
+.display-4 {
+    font-weight: 700;
+    color: #343a40;
+}
+
+.logo {
+
+    width: 20px;
+    height: 20px;
+
+}
+
+.boton {
+    background-color: #372772;
+    color: #FBFBFF;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+
+    height: 35px;
+}
