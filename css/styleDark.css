@@ -177,3 +177,8 @@ ul {
 
     height: 35px;
 }
+
+.btn1{
+    background-color: transparent;
+    border: transparent;
+}

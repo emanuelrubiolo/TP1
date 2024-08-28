@@ -164,7 +164,8 @@ ul {
 .logo {
     width: 20px;
     height: 20px;
-    filter: invert(), saturate(0%);
+    filter: invert();
+    filter: saturate(0%);
 }
 
 .boton {
@@ -176,4 +177,9 @@ ul {
     font-style: normal;
 
     height: 35px;
+}
+.btn1{
+    background-color: transparent;
+    border: transparent;
+    
 }
